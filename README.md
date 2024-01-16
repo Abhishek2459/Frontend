@@ -1,2 +1,2 @@
 # Frontend
-HTML,CSS,Javascript
+HTML,CSS
